@@ -7,11 +7,23 @@ Welcome to the official repository for the PCB design files. This repository con
 - [Overview](#overview)
 - [Folder Structure](#folder-structure)
 - [Design Tools](#design-tools)
-- 
-## 📖 Overview
-**[Brief description of your project]**
-
-This PCB was designed for **[purpose of the board]** and includes components such as **[e.g., microcontrollers, sensors, connectors]**. The board was designed to be **[e.g., compact, cost-effective, open-source, etc.]**.
 
 ## 📁 Folder Structure
+├── Design_Files/ # Source files (schematic, layout)
+├── Production_Files/ # Gerbers, drill files, pick-and-place, etc
+├── Images/ # Board renders, schematics screenshots
+└── README.md
 
+## 🛠️ Design Tools
+- **EDA Tool**: [KiCad / Altium Designer / Eagle / EasyEDA / Other]
+- **Version**: [KiCad - 9.0]
+
+## Contribution
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add new Java program'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Create a Pull Request.
+
+## Contact
+For any queries, reach out via GitHub or email.
